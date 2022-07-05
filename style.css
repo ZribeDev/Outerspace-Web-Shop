@@ -217,7 +217,7 @@ border: 0;
 .navtop div {
 display: flex;
 margin: 0 auto;
-width: 2000px;
+width: 1000px;
 height: 100%;
 }
 .navtop div h1, .navtop div a , .navtop div p {
